@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace YourNamespace
+
+namespace Town
 {
     class Town
     {
