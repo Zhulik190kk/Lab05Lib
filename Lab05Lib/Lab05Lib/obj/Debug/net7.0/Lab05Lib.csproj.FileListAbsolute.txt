@@ -1,0 +1,12 @@
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/bin/Debug/net7.0/Lab05Lib.deps.json
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/bin/Debug/net7.0/Lab05Lib.dll
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/bin/Debug/net7.0/Lab05Lib.pdb
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.csproj.AssemblyReference.cache
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.AssemblyInfoInputs.cache
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.AssemblyInfo.cs
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.csproj.CoreCompileInputs.cache
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.dll
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/refint/Lab05Lib.dll
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/Lab05Lib.pdb
+/Users/danilmakovskiy/Projects/Lab05Lib/Lab05Lib/obj/Debug/net7.0/ref/Lab05Lib.dll
